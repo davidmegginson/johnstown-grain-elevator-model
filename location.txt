@@ -1,0 +1,32 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     44.73345715 deg
+Longitude:    -75.46840096 deg
+Altitude ASL: 101.2176 m (332.0787 ft)
+37Heading:      23.8 deg
+Ground Elev:  71.9955 m (236.2057 ft)
+
+# w080n40/w076n44/1712554.stg
+OBJECT_STATIC -75.46840096 44.73345715 71.9955 336.2
+
+http://maps.google.com/maps?ll=44.7334571512,-75.4684009574&z=12&t=h
+$ fgfs --aircraft=ufo --lat=44.733457 --lon=-75.468401 --altitude=332.08 --heading=15.4
+
+
+------------------------ Selected Object -------------------------
+Path:         /home/david/Models/johnstown-grain-elevator/johnstown-grain-elevator.ac
+Latitude:     44.73193412 deg
+Longitude:    -75.47270973 deg
+Altitude ASL: 71.9984 m (236.2151 ft)
+Heading:      -115.1 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/johnstown-grain-elevator/johnstown-grain-elevator.ac -75.47270973 44.73193412 71.9984 115.1 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/johnstown-grain-elevator/johnstown-grain-elevator.ac -75.47270973 44.73193412 71.9984 115.1 -0.0 0.0 -0.0
