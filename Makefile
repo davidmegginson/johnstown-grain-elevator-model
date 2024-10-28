@@ -2,12 +2,15 @@ FG_SCENERY=${HOME}/.local/share/scenery/local-scenery-mods
 
 TARGET_DIR=Objects/w080n40/w076n44/
 
-FILES=johnstown-grain-elevator.ac
+FILES=johnstown-grain-elevator.ac \
+  johnstown-grain-elevator.xml \
+  johnstown-grain-elevator1.png \
+  johnstown-grain-elevator2.png
 
-VIEW_LAT=44.73549398
-VIEW_LON=-75.46913511
-VIEW_HDG=215
-VIEW_ALT=400
+VIEW_LAT=44.73473485
+VIEW_LON=-75.48588412
+VIEW_HDG=105
+VIEW_ALT=1200
 
 install:
 	cp ${FILES} ${FG_SCENERY}/${TARGET_DIR}
