@@ -3,7 +3,9 @@ Blender model of the Johnstown Grain Elevator
 
 This is a Public Domain, low-polygon model of the Johnston, ON grain elevator, a prominent visual landmark along the St. Lawrence River.  The model is designed for the open-source [FlightGear](https://flightgear.org) flight simulator, but you are free to use it wherever you'd like.
 
-![Screenshot of the grain elevator in FlightGear.](screenshot.png)
+![Day screenshot of the model.](screenshot.png)
+
+![Night screenshot of the model.](screenshot-night.png)
 
 
 ## UnLicense
