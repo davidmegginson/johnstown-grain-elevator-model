@@ -15,6 +15,7 @@
     </parameters>
     <object-name>Main</object-name>
     <object-name>Towers</object-name>
+    <object-name>XX-Skylight</object-name>
   </effect>
 
 </PropertyList>
