@@ -7,6 +7,8 @@ This is a Public Domain, low-polygon model of the Johnston, ON grain elevator, a
 
 ![Night screenshot of the model.](screenshot-night.png)
 
+Closest airport: [Ogdensburg International](https://ourairports.com/airports/KOGS/) (KOGS).
+
 
 ## UnLicense
 
